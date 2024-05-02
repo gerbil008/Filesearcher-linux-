@@ -8,8 +8,8 @@
 using namespace std;
 int num = 0;
 bool active = true;
-string sword = "cyw43.h";
-string path = "/home/david/";
+string sword = "your file";
+string path = "your searching path";
 float timeout = 666.0;
 vector<string> exceptions = {"sys", ".speech-dispatcher", ".wine", "llvm-14", "proc", "X11"};
 vector<string> results;

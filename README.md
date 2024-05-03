@@ -1,4 +1,4 @@
-# Filesearcher-linux
+# Filesearcher for linux
 A simple filesearcher for linux written completly in C++.
 Simply change "sword" to the file you are searching for.
 It also can only be the name without the fileextension, or just a part of the name.

@@ -11,7 +11,7 @@ bool active = true;
 string sword = "your file";
 string path = "your searching path";
 float timeout = 666.0;
-vector<string> exceptions = {"sys", ".speech-dispatcher", ".wine", "llvm-14", "proc", "X11"};
+vector<string> exceptions = {"sys", ".speech-dispatcher", ".wine", "llvm-14", "proc", "X11", "steam", "z:"};
 vector<string> results;
 void checker(){
     float timet = 0;
